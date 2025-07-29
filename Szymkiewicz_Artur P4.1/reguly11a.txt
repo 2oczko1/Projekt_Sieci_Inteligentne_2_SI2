@@ -1,0 +1,4 @@
+1. JEŻELI ('x2' < -4,41) TO 'Klasa 2' <gałąź przycięta>.
+2. JEŻELI ('x2' >= -4,41) i ('x1' < -6,03) TO 'Klasa 2'.
+3. JEŻELI ('x2' >= -4,41) i ('x1' >= -6,03) i ('x1' < -3) TO 'Klasa 1' <gałąź przycięta>.
+4. JEŻELI ('x2' >= -4,41) i ('x1' >= -6,03) i ('x1' >= -3) TO 'Klasa 3' <gałąź przycięta>.
